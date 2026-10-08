@@ -1,16 +1,17 @@
-## Hi there 👋
+<div align="left corner">
 
-<!--
-**BharathEForge/BHARATHEFORGE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+BHARATH E.
 
-Here are some ideas to get you started:
+Artificial Intelligence & Data Science · Machine Learning · AI Engineering
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Building intelligent systems that turn real-world problems into practical, data-driven products.
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2800&pause=900&color=6366F1&center=true&vCenter=true&width=850&lines=AI+%26+Data+Science+Student;Machine+Learning+Developer;Computer+Vision+%7C+Predictive+Analytics;Healthcare+AI+%7C+EdTech+%7C+AgriTech;Building+Real-World+Intelligent+Systems;Problem+%E2%86%92+Data+%E2%86%92+Intelligence+%E2%86%92+Impact" />
+
+<br>
+
+<a href="https://github.com/192424421simats-code">
+<img src="https://img.shields.io/badge/GitHub-18181B?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://linkedin.com/in/bharath-bharath-2207823
